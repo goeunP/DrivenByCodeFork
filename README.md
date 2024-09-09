@@ -86,7 +86,7 @@ ADsP(데이터 분석 준전문가) <br>
 
 중학생 때 전자기기 관련 블로그를 운영했던 경험이 있습니다. <br>
 
-<블로그 관련 이력> <br>
+<[블로그](https://storyrevolution.tistory.com/) 관련 이력> <br>
 LG전자 옵티머스 2X 블로거 데이 초청. <br>
 LG전자 3D 페스티벌 초청. <br>
 LG전자 옵티머스Z 체험단. <br>
