@@ -39,6 +39,7 @@
 
 삼성전자 24년 동계 대학생 S/W알고리즘 역량강화 과정 (24.01.15 - 24.03.03) <br>
 우아한 테크코스 프리코스, 자바 백엔드(23.10.19 - 23.11.15) <br>
+캡틴판교 Vue 직강 (22.10) <br>
 현대 IT&E 웹 풀스택 교육 (21.07.28 - 21.12.31) <br>
 데이터 청년 캠퍼스(20.06.22 - 20.09.18) <br>
 
@@ -47,6 +48,14 @@
 SQLD(SQL 개발자) <br>
 정보처리기사 <br>
 ADsP(데이터 분석 준전문가) <br>
+
+# 📅 프로젝트
+
+|제목|내용|설명|
+|------|---|---|
+|[Code formatter](https://github.com/DrivenByCode/code-formatter)|옵시디언의 코드블럭 내 코드 포매팅(Java, JS, SQL)을 위한 플러그인입니다.|Typescript|
+|[쇼핑몰 프로젝트](https://github.com/MomMadeFood)|한섬 쇼핑몰을 구현한 프로젝트입니다.|Java, Js, Spring boot, Vue.js2, Oracle|
+|[데이터 청년 캠퍼스 팀 프로젝트](https://github.com/senipior/DataCampus)|"증상에 따른 의료정보 제공서비스" 라는 주제로 프로젝트를 진행했습니다. 팀장을 맡아 팀원 선정, 크롤링, 데이터 전처리, 시각화, 모델링 선정을 맡았습니다.|R, Python|
 
 # 🔧 기술 스택
 
@@ -71,7 +80,7 @@ ADsP(데이터 분석 준전문가) <br>
 - "Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career" by Scott H. Young
 - "The PARA Method" by Tiago Forte
 
-## 🎯 취미
+# 🎯 취미
 
 🚴자전거타기, 🧗클라이밍, 💻전자기기, 🎲보드게임
 
