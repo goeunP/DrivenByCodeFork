@@ -51,7 +51,7 @@ ADsP(데이터 분석 준전문가) <br>
 
 # 📅 프로젝트
 
-|제목|내용|설명|
+|제목|내용|기술스택|
 |------|---|---|
 |[Code formatter](https://github.com/DrivenByCode/code-formatter)|옵시디언의 코드블럭 내 코드 포매팅(Java, JS, SQL)을 위한 플러그인입니다.|Typescript|
 |[쇼핑몰 프로젝트](https://github.com/MomMadeFood)|한섬 쇼핑몰을 구현한 프로젝트입니다.|Java, Js, Spring boot, Vue.js2, Oracle|
