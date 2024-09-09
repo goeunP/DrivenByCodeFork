@@ -76,9 +76,9 @@ ADsP(데이터 분석 준전문가) <br>
 
 # 📚 인상 깊게 읽은 책
 
-- "No Rules Rules: Netflix and the Culture of Reinvention" by Reed Hastings
-- "Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career" by Scott H. Young
-- "The PARA Method" by Tiago Forte
+- "규칙 없음": 리드 헤이스팅스
+- "울트라러닝, 세계 0.1%가 지식을 얻는 비밀": 스콧 영
+- "세컨드 브레인" : 티아고 포르테
 
 # 🎯 취미
 
